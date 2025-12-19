@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaravisthegod1
+- 👋 Hi, I’m @techboy_6767
 - 👀 I’m interested in HTML 5
 - 🌱 I’m currently learning how to do html
 - 📫 How to reach me through mail id demo.demo47@outlook.com   ,   techboy_aarav@outlook.com
